@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @varsita-yeddula
-- 👀 I’m interested in knowing more in computer science
-- 🌱 I’m currently learning data structures,algorithms
+- 🎓 Engineering Student | 💡 Problem Solver | ⚙️ Full Stack Explorer
 - 📫 How to reach me- email: varsitasyeddula@gmail.com
-- ⚡ Fun fact: 
+🌱 Always curious. Always building
 
 <!---
 varsita-yeddula/varsita-yeddula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
